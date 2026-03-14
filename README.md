@@ -1,8 +1,8 @@
-# Kernel Learning
+# Kernel Learning 🐧
 
 This repository documents my journey studying the Linux kernel.
 
-Topics explored:
+## Topics
 
 - Kernel architecture
 - Kernel modules
@@ -11,4 +11,6 @@ Topics explored:
 - Memory management
 - System calls
 
-Goal: Understand how the Linux kernel works internally.
+## Goal
+
+Understand how the Linux kernel works internally and how operating systems interact with hardware.
